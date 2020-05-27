@@ -1,0 +1,50 @@
+body 
+{
+background-color: white;
+text-align: right;
+}
+
+.inner a
+{
+color: black;
+
+}
+
+
+
+.frame
+{
+    width: 1400px;
+    height: 600px;
+    border: 1px ; /*solid black to see the border*/
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell; 
+}
+
+#box
+{
+    border: 1px solid rgb(206, 205, 205);
+    border-radius: 20px;
+    width: 400px;
+    height: 35px;
+}
+
+#bottomnav
+{
+  float: left;
+
+}
+#bottomnav a
+{
+    color: black;
+}
+
+#bottomnav2
+{
+    float: right;
+}
+#bottomnav2 a
+{
+    color: black;
+}
